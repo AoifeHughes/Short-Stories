@@ -22,5 +22,24 @@ Here, we modify this idea to fit an article of creative writing.
 - An enemy/rival
 - A loyalty/promise/obligation/debt to fulfil 
 
+# Essential questions checklist 
+
+- [ ] Why does this character exist? 
+  - [ ] Are they _essential_? 
+- [ ] Character's motivation i.e., from the character's perspective, not the
+  author's. 
+- [ ] What is their physical description 
+- [ ] Vibe - i.e., how do others' generally perceive this character
+
 # Questions to consider for background development
 
+- [ ] Where is the character from 
+- [ ] What is their profession/background knowledge
+- [ ] Do they have a vice?
+- [ ] What's their weakness / blackmail-able feature? 
+- [ ] Ties or attachments
+  - [ ] Places 
+  - [ ] People 
+  - [ ] Groups e.g., religion, faction, guild, family
+- Life outlook e.g., positive, depressed, optimistic, realist 
+- What do they like/dislike
