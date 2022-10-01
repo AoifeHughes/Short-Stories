@@ -12,7 +12,7 @@ Here, we modify this idea to fit an article of creative writing.
 - Knives are anything which can raise the stakes of a character's situation
 - The term knives is suggestive of the stabbing in the back which these traits
   encourage 
-- A well developed character may have ~7 or so 
+- A well-developed character may have ~7 or so 
   - Minor characters can probably have less. 
 
 ##  Examples
