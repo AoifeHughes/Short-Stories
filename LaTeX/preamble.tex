@@ -115,8 +115,8 @@
 \fixpdflayout
 
 % DEFINE REQUIRED FUNCTIONS
-\newenvironment{dialogue}{\list{}{\itemsep=\parskip \topsep=\parskip
-\parsep=\parskip \leftmargin=0em \itemindent=3em}}{\endlist}
+%% this was given by https://tex.stackexchange.com/questions/182869/typesetting-a-dialogue-paragraphs-or-something-else
+\newenvironment{dialogue}{\let\item\par}{\par\aftergroup\noindent\aftergroup\ignorespaces}
 
 
 \newcommand{\precontent}{\pagestyle{empty}
