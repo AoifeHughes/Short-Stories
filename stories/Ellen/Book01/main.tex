@@ -1,0 +1,60 @@
+% universal settings
+\newcommand{\booktitle}{Loot, Strings, and Heartbreak}
+\input{../../../LaTeX/preample.tex}
+
+% BEGIN THE DOCUMENT
+\begin{document}
+\pagestyle{empty}
+% the half title page
+%\halftitlepage
+%\cleardoublepage
+% the title page
+\titleM
+\clearpage
+% copyright page
+\noindent{\small{This novel is entirely a work of fiction. The names, characters
+and incidents portrayed in it are the product of the author's imagination. Any
+resemblance to actual persons, living or dead, or events or localities is
+entirely coincidental.\par\vfill\noindent \space\today\
+\\ \copyright\space\theauthor. All rights
+reserved.\par\vfill\noindent\theauthor\space asserts the moral right to be
+identified as the author of this work. All rights reserved in all media. No part
+of this publication may be reproduced, stored in a retrieval system, or
+transmitted, in any form, or by any means, electronic, mechanical, photocopying,
+recording or otherwise, without the prior written permission of the author
+and/or the publisher.\par}}
+\clearpage
+
+% dedication
+
+% begin front matter
+\frontmatter
+\pagestyle{mystyle}
+% preface
+%\chapter*{Preface}
+% \lipsum[100-104]
+% acknowledgements
+%\chapter*{Acknowledgements}
+%\lipsum[1-9]
+% table of contents
+\clearpage
+\tableofcontents*
+
+
+\input{chapters/prologue.tex}
+% begin main matter
+\mainmatter
+\input{chapters/chapter1.tex}
+
+
+\chapter{Chapter Two}
+\chapter{Chapter Three}
+\chapter{Chapter Four}
+\chapter{Chapter Five}
+\chapter{Chapter Six}
+
+
+% begin back matter
+
+\end{document}
+% END THE DOCUMENT
