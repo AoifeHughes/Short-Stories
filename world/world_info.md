@@ -16,7 +16,7 @@ Planet is scattered islands with 3 or so larger landmasses
 ### Harvest
 
 
-# Magic systems
+# Magic systems (planeweaving)
 - Magic is a reasonably common occurrence
 - Magic is pulled from alternative dimensions 
   - This channelling can be done through deliberate and in-deliberate actions
@@ -55,7 +55,7 @@ Planet is scattered islands with 3 or so larger landmasses
   dimensions. These very quickly over-burden the mind
 - e.g., one could make fire from pulling heat from one dimension. Thus a simple
   spell. Or, they could create actual fire by pulling heat, oxygen and a fuel
-  source from three separate existances into the current reality and thus
+  source from three separate existences into the current reality and thus
   produce true fire. 
   - This metaphor aligns well with instrumental strings, each playing their own
     song which must be in keeping with each other.
