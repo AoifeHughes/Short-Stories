@@ -2,6 +2,20 @@
 - Planet/world name: TBD
 - Multi-humanoid species: No
 
+## Geography
+Planet is scattered islands with 3 or so larger landmasses 
+
+## Countries
+- Main country: Erdigan Empire 
+  - Eastern end of one of the largest landmasses
+  - stretches multiple cities and quite varied people 
+  - Capital: Queenscrown
+  - Ruler: King TBD
+## Cities 
+### Queenscrown 
+### Harvest
+
+
 # Magic systems
 - Magic is a reasonably common occurrence
 - Magic is pulled from alternative dimensions 
