@@ -36,6 +36,18 @@ Planet is scattered islands with 3 or so larger landmasses
 - Wizards almost exclusively spend their time trying to understand and make more
   replicable. Essentially they're scientists. 
 
+## Potion making 
+- Planeweaving made into a liquid form
+- The hard part is stabilising the magic
+- Most things that are weaved have a strong pull back to their origin
+- It's an entirely different skillset to planeweaving as it doesn't involved the
+  instant use of things from other dimensions
+
+## Artificing
+- The creation of items that can store magic
+- similar to potion making, non consumable 
+- It takes real skill to produce something which can be used multiple times
+
 ### How does one learn magic
 - Meditation 
 - Study
